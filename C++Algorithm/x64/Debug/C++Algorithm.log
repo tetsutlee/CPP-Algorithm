@@ -1,0 +1,12 @@
+﻿  algorithm.cpp
+C:\Users\fumit\Desktop\C++Algorithm\C++Algorithm\algorithm.cpp(89,13): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\fumit\Desktop\C++Algorithm\C++Algorithm\algorithm.cpp(111,8): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fumit\Desktop\C++Algorithm\C++Algorithm\algorithm.cpp(132,14): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\fumit\Desktop\C++Algorithm\C++Algorithm\algorithm.cpp(171,9): warning C4244: '/=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fumit\Desktop\C++Algorithm\C++Algorithm\algorithm.cpp(203,15): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\fumit\Desktop\C++Algorithm\C++Algorithm\algorithm.cpp(217,15): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\fumit\Desktop\C++Algorithm\C++Algorithm\algorithm.cpp(254,18): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\fumit\Desktop\C++Algorithm\C++Algorithm\algorithm.cpp(262,16): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  main.cpp
+  コードを生成中...
+  C++Algorithm.vcxproj -> C:\Users\fumit\Desktop\C++Algorithm\x64\Debug\C++Algorithm.exe
